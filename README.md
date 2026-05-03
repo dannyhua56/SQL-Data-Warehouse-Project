@@ -16,18 +16,20 @@ to finish processes will consist of bronze -> silver -> gold.
 
 This project focuses on building a modern data warehouse using the Medallion Architecture, structured across the Bronze, Silver, and Gold layers.
 
-Data Architecture: Designed a layered architecture to manage raw, refined, and analytics-ready data.
-ETL Pipelines: Implemented pipelines to extract, transform, and load data from source systems into the warehouse.
-Data Modeling: Built fact and dimension tables optimized for analytical performance.
-Analytics & Reporting: Developed SQL-based reports and dashboards to generate actionable insights.
+| Component               | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| Data Architecture      | Designed a layered Medallion architecture (Bronze, Silver, Gold) to manage raw ingestion, refined transformations, and analytics-ready datasets |
+| ETL Pipelines          | Built end-to-end pipelines to extract data from source systems, apply transformations, and load structured data into the warehouse efficiently |
+| Data Modeling          | Developed fact and dimension tables using a star schema to support scalable and high-performance analytical queries |
+| Analytics & Reporting  | Created SQL-based reports and dashboards to analyze trends, track key metrics, and deliver actionable business insights |
 
 This repository highlights skills relevant to:
 
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
+- SQL Development
+- Data Architect
+- Data Engineering
+- ETL Pipeline Developer
+- Data Modeling
+- Data Analytics
 
 
